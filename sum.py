@@ -1,0 +1,1 @@
+print("sum of two numberes:",10+5)
