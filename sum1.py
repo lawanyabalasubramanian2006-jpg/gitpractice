@@ -1,0 +1,1 @@
+print("Sum of 3 no.s",6+3+9)
